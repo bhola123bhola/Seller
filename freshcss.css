@@ -1,0 +1,53 @@
+.container{
+    width: 80%;
+      height: 600px;
+      margin:20px;
+      padding:20px
+      /* border: 1px solid blue; */
+      text-align:center;
+      /* color:white; */
+}
+.form table{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img{
+    background-image: url('images/OMNIFIN12.png');
+    opacity: 1;
+    height:85vh;
+    width: 95vw;
+    text-align: center;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+}
+.img .text-center{
+  opacity:2;
+}
+
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
+  ul.navbar li {
+    float: left;
+  }
+
+  ul.navbar li a {
+    display: block;
+    padding: 16px;
+    text-decoration: none;
+    color: #a00b0b;
+  }
+
+  /* Hover effect */
+  ul.navbar li a:hover {
+    background-color: #16973d;
+  }
+ 
